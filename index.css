@@ -59,25 +59,25 @@ a#apply:hover{
 }
 #edu{
     font-size:70px;
-    font-weight:800;
+    font-weight:700;
     color:#041647;
 }
 #goal{
     font-weight:650;
 }
 #batch{
-    font-size:30px;
+    font-size:25px;
     margin-top:25px;
     font-weight:500;
     background:#fff;
     padding:10px;
     border-radius:5px;
-    width:75%;
+    width:85%;
 }
 #date{
     color:#069ee0;
     font-weight:800;
-    font-size:35px;
+    font-size:30px;
 }
 #start a{
     padding:15px 45px;
