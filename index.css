@@ -3,6 +3,13 @@
     padding:0%;
     font-family:sans-serif;
 }
+.header{
+    background-image: url('background.jpg');
+    width:100%;
+    background-position:relative;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
 img{
     float:left;
     margin-left:10%;
@@ -10,8 +17,8 @@ img{
     padding:25px;
 }
 .nav{
-    background:#f8f8f8;
-    height:120px;
+    background:rgba(248, 248, 248, 0.6);
+    height:100px;
     width:100%;
     position:fixed;
 }
@@ -65,9 +72,21 @@ a#apply:hover{
     background:#fff;
     padding:10px;
     border-radius:5px;
+    width:75%;
 }
 #date{
     color:#069ee0;
     font-weight:800;
     font-size:35px;
+}
+#start a{
+    padding:15px 45px;
+    font-size:20px;
+    color:#fff;
+    font-weight:600;
+    background:#00008b;
+    border-radius:50px;
+}
+#icon a{
+    color:#fff;
 }
