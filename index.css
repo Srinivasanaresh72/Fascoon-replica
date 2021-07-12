@@ -45,3 +45,29 @@ a:hover{
 a#apply:hover{
     box-shadow:0px 0px 5px 5px #808081;
 }
+.getStarted{
+    margin-left:200px;
+    padding-top:200px;
+    position:static;
+}
+#edu{
+    font-size:70px;
+    font-weight:800;
+    color:#041647;
+}
+#goal{
+    font-weight:650;
+}
+#batch{
+    font-size:30px;
+    margin-top:25px;
+    font-weight:500;
+    background:#fff;
+    padding:10px;
+    border-radius:5px;
+}
+#date{
+    color:#069ee0;
+    font-weight:800;
+    font-size:35px;
+}
