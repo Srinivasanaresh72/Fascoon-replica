@@ -92,7 +92,7 @@ a#apply:hover{
 }
 .images{
     width:50%;
-    text-align:left;
+    float:left;
 }
 .images img{
     width:100px;
@@ -118,4 +118,12 @@ a#apply:hover{
 #photo5{
     margin-top:-150px;
     margin-left:150px;
+}
+.content{
+    float:right;
+    width:50%;
+}
+.content .fas{
+    margin:200px;
+    color:#00008b;
 }
