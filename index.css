@@ -124,6 +124,34 @@ a#apply:hover{
     width:50%;
 }
 .content .fas{
-    margin:200px;
+    margin-top:200px;
+    margin-left:250px;
     color:#00008b;
+}
+li .speech{
+    margin-top:-220px;
+    margin-left:-100px;
+    width:600px;
+    text-align:justify;
+    line-height: 30px;
+}
+li .button{
+    float:right;
+    margin-left:700px;
+}
+li .name{
+    text-align:justify;
+    margin-top:50px;
+    margin-left:-100px;
+    color:#00008b;
+}
+li .display{
+    display:none;
+}
+.radio{
+    margin-left:600px;
+    margin-top:30px;
+}
+.radio .button{
+    margin-top:30px;
 }
