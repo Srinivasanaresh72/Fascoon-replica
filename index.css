@@ -90,3 +90,32 @@ a#apply:hover{
 #icon a{
     color:#fff;
 }
+.images{
+    width:50%;
+    text-align:left;
+}
+.images img{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+}
+#photo1{
+    margin-top:500px;
+    margin-left:500px;
+}
+#photo2{
+    margin-top:-500px;
+    margin-left:400px;
+}
+#photo3{
+    margin-top:-300px;
+    margin-left:350px;
+}
+#photo4{
+    margin-top:-400px;
+    margin-left:200px;
+}
+#photo5{
+    margin-top:-150px;
+    margin-left:150px;
+}
