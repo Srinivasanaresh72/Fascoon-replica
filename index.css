@@ -155,3 +155,25 @@ li .display{
 .radio .button{
     margin-top:30px;
 }
+.brand{
+    background:#1a8cff;
+    margin-top:700px;
+    color:#fff;
+    padding:50px 50px;
+    display:grid;
+    grid-template-rows:300px;
+    grid-template-columns: 500px 500px 300px;
+}
+#per{
+    font-size:80px;
+    padding:20px;
+}
+#title{
+    font-size:25px;
+    font-weight:600;
+    padding:20px;
+}
+#process{
+    padding:20px;
+    width:300px;
+}
