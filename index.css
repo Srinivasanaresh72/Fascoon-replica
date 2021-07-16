@@ -22,7 +22,7 @@ img{
     width:100%;
     position:fixed;
 }
-ul,li{
+ul,#nav{
     display:inline-block;
     padding:10px;
     margin:10px;
@@ -155,6 +155,9 @@ li .display{
 .radio .button{
     margin-top:30px;
 }
+#none{
+    display:inline-block;
+}
 .brand{
     background:#1a8cff;
     margin-top:700px;
@@ -177,8 +180,50 @@ li .display{
     padding:20px;
     width:300px;
 }
+.elipTop img{
+    margin-left:500px;
+    margin-top:50px;
+}
+.elipBottom img{
+    margin-top:550px;
+    margin-left:-930px;
+}
 .lap img{
     width:600px;
     height:600px;
-    margin-top:-150px;
+    margin-top:-200px;
+    margin-left:130px;
+}
+.methods{
+    float:right;
+    width:45%;
+    clear:both;
+    margin-top:-680px;
+}
+#afe{
+    font-size:20px;
+    letter-spacing: 5px;
+    color:#00008b;
+}
+#rev{
+    margin-top:70px;
+    margin-right:200px;
+    line-height: 30px;
+}
+#rev1{
+    margin-top:50px;
+    margin-right:200px;
+    line-height: 30px;
+}
+#list{
+    text-align:left;
+    font-weight:50px;
+    color:blue;
+    padding:5px;
+    font-size:30px;
+    margin-right:200px;
+}
+#list a{
+    color:#696969;
+    font-size:15px;
 }
