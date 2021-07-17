@@ -254,7 +254,7 @@ li .display{
     color:red;
 }
 #steps1{
-    width:450px;
+    width:380px;
     padding:20px 5px;
     line-height:30px;
 }
@@ -268,5 +268,49 @@ li .display{
 }
 .register{
     float:right;
-    margin:-750px 50px 50px 20px;
+    margin:-750px 30px 50px 600px;
+    background:rgb(24, 50, 81, 0.7);
+    display:inline-block;
+    border-radius:25px;
+    text-align:center;
+}
+#book{
+    background:rgb(255, 95, 96, 1);
+    box-shadow: rgb(56 67 110) 0px -11px 0px 0px;
+    padding:50px 30px;
+    color:#fff;
+    font-weight:800;
+    font-size:35px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#form{
+    background:initial;
+    text-align:center;
+    font-size:18px;
+    margin:30px 0px 5px 15px;
+    padding:30px 5px 5px 10px;
+    border-top:hidden;
+    border-right:hidden;
+    border-left:hidden;
+    border-bottom:1px dashed whitesmoke;
+    outline:none;
+    color:lightgray;
+}
+#formApply{
+    background:rgb(255, 95, 96, 1);
+    text-align:center;
+    margin-top:50px;
+    margin-bottom:80px;
+    padding:20px 40px;
+    font-size:17px;
+    color:whitesmoke;
+    border-radius:30px;
+    font-weight:600;
+    border:hidden;
+    box-shadow: 0 0 10px 10px rgb(0 0 0 / 20%);
+}
+#formApply:hover{
+    background:initial;
+    border:2px groove whitesmoke;
 }
