@@ -313,4 +313,5 @@ li .display{
 #formApply:hover{
     background:initial;
     border:2px groove whitesmoke;
+    cursor:pointer;
 }
