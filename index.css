@@ -315,3 +315,33 @@ li .display{
     border:2px groove whitesmoke;
     cursor:pointer;
 }
+#eligibility{
+    margin:80px 10px 50px 150px;
+    color:rgb(0, 38, 255);
+    font-weight:500;
+}
+.eligibility{
+    display:grid;
+    grid-template-columns: 600px 600px;
+    grid-template-rows:200px 200px;
+    margin-left:150px;
+    grid-row-gap:35px;
+    grid-column-gap:50px;
+}
+.eligibility1{
+    border:1px solid black;
+    
+}
+.eligibility1 img{
+    padding-left:5px;
+}
+.eligibility1 p{
+    padding:120px 50px 30px 50px;
+    font-size:25px;
+    font-weight:700;
+    color:rgb(24, 24, 26);
+}
+#education:hover{
+    color:red;
+    transition-duration: 0.5s;
+}
