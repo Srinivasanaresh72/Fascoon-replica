@@ -166,9 +166,8 @@ li .display{
     background:#1a8cff;
     margin-top:700px;
     color:#fff;
-    padding:50px 50px;
+    padding:20px 20px;
     display:grid;
-    grid-template-rows:300px;
     grid-template-columns: 500px 500px 300px;
 }
 #per{
@@ -247,12 +246,27 @@ li .display{
 .lfh,.payement,.projects,.interview{
     padding:20px;
 }
-#process{
+#steps{
     margin-top:150px;
     width:400px;
 }
-#process1{
-    width:400px;
-    padding-left:5px;
+#steps:hover{
+    color:red;
+}
+#steps1{
+    width:450px;
+    padding:20px 5px;
     line-height:30px;
+}
+#ques{
+    color:rgba(0, 0, 255, 0.658);
+    font-size:30px;
+    font-weight:500;
+}
+#underline{
+    color:red;
+}
+.register{
+    float:right;
+    margin:-750px 50px 50px 20px;
 }
