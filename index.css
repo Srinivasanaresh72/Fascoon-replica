@@ -378,3 +378,15 @@ li .display{
     padding:25px 20px;
     border-bottom:1px solid black;
 }
+#cut{
+    text-decoration:line-through;
+    text-decoration-color: red;
+}
+#income{
+    font-size:26px;
+    color:#00008b;
+    font-weight:700;
+}
+#bracket{
+    font-size:15px;
+}
