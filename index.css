@@ -317,7 +317,7 @@ li .display{
 }
 #eligibility{
     margin:80px 10px 50px 150px;
-    color:rgb(0, 38, 255);
+    color:#00008b;
     font-weight:500;
 }
 .eligibility{
@@ -389,4 +389,44 @@ li .display{
 }
 #bracket{
     font-size:15px;
+}
+.faq{
+    background:#e8e5e5;
+    margin-top:100px;
+    padding:10px 5px;
+}
+.back{
+    padding:20px 400px 30px 400px;
+}
+.faq1{
+    background:#fff;
+    padding:20px;
+    color:#00008b;
+    font-weight:700;
+}
+#faq{
+    color:#fff;
+    background:#00008b;
+    float:right;
+    padding:8px 14px;
+    border-radius:50%;
+    margin-top:-10px;
+    font-size:25px;
+}
+.faq2{
+    background:#f3f3f3;
+    padding:15px;
+}
+.faq3{
+    display:none;
+}
+#faq2{
+    background:#0a7bbd;
+    color:#fff;
+    margin:50px 300px 20px 260px;
+    padding:20px;
+    border-radius:50px;
+}
+#faq2:hover{
+    box-shadow:0 0 10px 10px rgb(0 0 0 / 20%);
 }
