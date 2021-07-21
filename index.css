@@ -465,3 +465,50 @@ li .display{
 .weTeach img{
     margin-left:200px;
 }
+.begin{
+    background:#00008b;
+    margin: 150px 200px 0px 200px;
+    padding:50px 100px;
+    display:grid;
+    grid-template-columns:350px 250px 300px;
+    border-radius:200px;
+}
+#begin{
+    color:#fff;
+    margin-top:15px;
+    font-size:30px;
+    font-weight:600;
+    letter-spacing: 2px;
+}
+#starta{
+    background:#ff9819;
+    margin-left:20px;
+    margin-right:20px;
+    padding:20px 5px 20px 0px;
+    color:#fff;
+    font-size:17px;
+    font-weight:600;
+    border-radius:40px;
+    letter-spacing: 0.1px;
+}
+#becomeTutor{
+    background:#6500ff;
+    padding:20px 0 20px 0;
+    color:#fff;
+    font-size:18px;
+    font-weight:600;
+    border-radius:50px;
+}
+#starta:hover{
+    background:black;
+}
+#becomeTutor:hover{
+    background:black;
+}
+.footer{
+     background:url('footer.png');
+     width:100%;
+     background-position:center;
+     background-position-y: 0.5px;
+     margin-top:150px;
+}
