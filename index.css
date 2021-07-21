@@ -430,3 +430,38 @@ li .display{
 #faq2:hover{
     box-shadow:0 0 10px 10px rgb(0 0 0 / 20%);
 }
+.readNow{
+    display:grid;
+    grid-template-columns:400px 400px 400px;
+    grid-column-gap:35px;
+}
+.benifits,.react1,.isa{
+    background:#ffffff;
+    margin-left:100px;
+}
+#read{
+    padding:10px 0px 20px 50px;
+    font-size:30px;
+}
+#read1{
+    padding:10px 0px 20px 50px;
+}
+#read:hover{
+    color:#00008b;
+    cursor:pointer;
+}
+#read1:hover{
+    color:#00008b;
+    cursor:pointer;
+}
+.readNow img:hover{
+         width:400px;
+         height:200px;
+}
+.weTeach{
+    display:grid;
+    grid-template-columns: 150px 150px 150px 150px 150px 150px 150px;
+}
+.weTeach img{
+    margin-left:200px;
+}
