@@ -267,8 +267,7 @@ li .display{
     color:red;
 }
 .register{
-    float:right;
-    margin:-750px 30px 50px 600px;
+    margin:-750px 20px 50px 950px;
     background:rgb(24, 50, 81, 0.7);
     display:inline-block;
     border-radius:25px;
